@@ -1,0 +1,28 @@
+button {
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+#img {
+	display: block;
+	border: 1px solid black;
+	margin-left: 33%;
+}
+
+/* Стили для инпутов */
+input {
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	border: 1px solid black;
+}
+
+/* Стили для div */
+div {
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	border: 1px solid black;
+}
